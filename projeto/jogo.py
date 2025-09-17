@@ -86,16 +86,7 @@ class Jogo:
     else: 
       print("\nVocê foi derrotado!")
 
-
-
 # Criar instância do jogo e iniciar batalha
 jogo = Jogo()
 jogo.iniciar_batalha()
 
-
-
-
-""" heroi = Heroi(nome="Herói", vida=100, nivel=5, habilidade="Super Força")
-print(heroi.exibir_detalhes())
-inimigo = Inimigo(nome="Morcego", vida=50, nivel=3, tipo="Voador")
-print(inimigo.exibir_detalhes()) """
